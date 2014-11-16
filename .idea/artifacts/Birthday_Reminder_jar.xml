@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Birthday Reminder:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Birthday_Reminder_jar</output-path>
+    <root id="archive" name="Birthday Reminder.jar">
+      <element id="module-output" name="Birthday Reminder" />
+      <element id="extracted-dir" path="/media/melon/MY OWN/Programming/Java/Codes &amp; Libraries/Birthday Reminder/BirthdayReminder/dist/lib/derby.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
